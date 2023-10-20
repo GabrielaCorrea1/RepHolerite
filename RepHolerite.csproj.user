@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\gabic\OneDrive\Área de Trabalho\Gabriela\Projetos VS\RepHolerite\RepHolerite\Properties\PublishProfiles\FolderProfile2.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Alterar_Adicional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Alterar_Nome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Alterar_Salario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Consultar_Hora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dissidio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Excluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ferias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mensal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
